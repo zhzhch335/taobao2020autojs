@@ -1,0 +1,10 @@
+{
+    "name": "2020双十一",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.zhichen.taobao2020",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
